@@ -4,8 +4,8 @@
 
 1. Клонируйте репозиторий и перейдите в директорию проекта:
 ```
-   git clone https://github.com/eutusikova/Linux-Windows-Cmake-sqlite.git cmake-sqlite-project
-   cd cmake-sqlite-project/centos7-vm
+   git clone https://github.com/eutusikova/news-paper-deploy.git news-paper-deploy
+   cd news-paper-deploy/NewsPaper_Deploy
 ```
 2. Соберите и запустите все контейнеры:
 ```
